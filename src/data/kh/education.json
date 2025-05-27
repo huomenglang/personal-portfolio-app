@@ -1,0 +1,40 @@
+{
+    "startYear": "2007",
+    "experience": [
+         {
+            "company": "Royal University Of Phnom penh",
+            "position": "Bachelor Degree",
+            "period": {
+                "start": "Nov 2019",
+                "finish": "May 2023"
+            },
+            "description": [
+                "Bachelor Degree At RUPP major Computer Science and Engineering",
+                 "Study General Programming Language like C#, JAVA, PHP, C, C++ and DSA, Design Patterns, etc "
+            ]
+        },
+        {
+            "company": "Hunsen Khsach Kandal high school",
+            "position": "High School",
+            "period": {
+                "start": "Oct 2013",
+                "finish": "Sep 2019"
+            },
+            "description": [
+                "Study General Knowledge "
+            ]
+        },
+        {
+            "company": "Preah Brasab Primary School",
+            "position": "Primary School",
+            "period": {
+                "start": "Otc 2007",
+                "finish": "Sep 2013"
+            },
+            "description": [
+                "Study foundation and General Knowledge "
+            ]
+        }
+        
+    ]
+}

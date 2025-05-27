@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Crossnetics",
+        "description": "Crossnetics is a marketing product with web3 support.",
+        "stack": [
+            {
+                "title": "Frontend",
+                "items": [
+                    "NextJS",
+                    "Tailwind",
+                    "Zustand",
+                    "MantineUI"
+                ]
+            },
+            {
+                "title": "Backend",
+                "items": [
+                    "NestJS",
+                    "Swagger",
+                    "TypeORM",
+                    "MySQL",
+                    "Docker",
+                    "Redis",
+                    "ElasticSearch"
+                ]
+            }
+        ],
+        "link": "https://crossnetics.io",
+        "image": "crossnetics.png"
+    },
+    {
+        "title": "Finbuilder",
+        "description": "CRM system for telecom, banking, and crypto trading platforms.",
+        "stack": [
+            {
+                "title": "Stack",
+                "items": [
+                    "ReactJS",
+                    "ExpressJS",
+                    "Docker",
+                    "PostgreSQL",
+                    "DevExtreme"
+                ]
+            }
+        ],
+        "link": "https://finbuilder.com",
+        "image": "finbuilder.png"
+    },
+    {
+        "title": "XMPT",
+        "description": "System for generating and managing tax exemption certificates.",
+        "stack": [
+            {
+                "title": "Stack",
+                "items": [
+                    "NextJS",
+                    "MaterialUI",
+                    "Redux"
+                ]
+            }
+        ],
+        "link": "https://xmpt.us",
+        "image": "xmpt.png"
+    },
+    {
+        "title": "EVPoint",
+        "description": "System for interacting with charging stations.",
+        "stack": [
+            {
+                "title": "Stack",
+                "items": [
+                    "Codeigniter",
+                    "MySQL",
+                    "jQuery",
+                    "Bootstrap"
+                ]
+            }
+        ],
+        "link": "https://evpoint.md",
+        "image": "evpoint.png"
+    }
+]

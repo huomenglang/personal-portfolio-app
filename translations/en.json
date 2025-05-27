@@ -6,7 +6,8 @@
     "navigation": {
         "home": "Home",
         "experience": "Experience",
-        "projects": "Projects"
+        "projects": "Projects",
+        "education":"Educations"
     },
     "about": {
         "skills": {
@@ -23,7 +24,7 @@
     "common": {
         "langs": {
             "en": "English",
-            "ru": "Russian"
+            "kh": "Khmer"
         }
     },
     "buttons": {

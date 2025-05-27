@@ -1,0 +1,54 @@
+{
+    "notFound": {
+        "message": "ទំព័រ រកមិនឃើញ🤷‍♂️",
+        "button": "ត្រលប់ក្រោយ"
+    },
+    "navigation": {
+        "home": "ទំព័រដើម",
+        "experience": "បទពិសោធន៏",
+        "projects": "ស្នាដៃ",
+     "education":"ការសិក្សា"
+    },
+    "about": {
+        "skills": {
+            "title": "ជំនាញ"
+        }
+    },
+    "settings": {
+        "lang": {
+            "title": "ភាសា",
+            "description": "ជ្រើសរើសភាសាដែលមាននៅខាងក្រោម",
+            "close": "បិទ"
+        }
+    },
+    "common": {
+        "langs": {
+            "en": "អង់គ្លេស",
+            "kh": "ភាសាខ្មែរ"
+        }
+    },
+    "buttons": {
+        "contactMe": "ទំនាក់ទំនង"
+    },
+    "auth": {
+        "login": {
+            "username": "ឈ្មោះ",
+            "password": "ពាក្យសម្ងាត់",
+            "buttons": {
+                "login": "ចូលប្រើ",
+                "back": "ត្រលប់ក្រោយ"
+            }
+        }
+    },
+    "dashboard": {
+        "layout": {
+            "sidebar": {
+                "common": "ទូទៅ",
+                "personalData": "ព័ត៌មានផ្ទាល់ខ្លួន",
+                "experience": "បទពិសោធន៏",
+                "projects": "ស្នាដៃ",
+                "stack": "ជំនាញ"
+            }
+        }
+    }
+}

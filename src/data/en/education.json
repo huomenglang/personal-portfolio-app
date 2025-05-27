@@ -1,0 +1,43 @@
+{
+    "startYear": "2021",
+    "experience": [
+        {
+            "company": "CUBETIQ Solutions",
+            "position": "IT Supporter",
+            "period": {
+                "start": "Sep 2021",
+                "finish": "Dec 2021"
+            },
+            "description": [
+                "Testing and Learning to Understand Process and Business Logic of existing System in Company",
+                "Demo Customer the features of System and Negotiate with Customer ",
+                "Training hwo to use system to customer and Supporting"
+            ]
+        },
+        {
+            "company": "CUBETIQ Solutions",
+            "position": "Web Developer",
+            "period": {
+                "start": "Dec 2021",
+                "finish": "Nov 2023"
+            },
+            "description": [
+                "Developed a Web Store Management System with Bot Shop for Integrate with POS system, etc (NestJs, ReactJS,NextJS PostgreSQL, SpringBoot )",
+                "Redesigned the Stock Viewer via Scan Barcode, Report Viewer, Oversea Register improved performance, and added Telegram notifications"
+            ]
+        },
+        {
+            "company": "Canadia Bank",
+            "position": "System Developer",
+            "period": {
+                "start": "Nov 2023",
+                "finish": "Present"
+            },
+            "description": [
+                "Developed a tax exemption certificate generation and management system (ReactJS, MaterialUI)",
+                "Fully migrated the project from pure JS to ReactJS"
+            ]
+        }
+        
+    ]
+}

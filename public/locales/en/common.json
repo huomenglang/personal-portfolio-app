@@ -1,0 +1,56 @@
+{
+    "greeting":"Hello",
+    "welcome":"welcome",
+    "notFound": {
+        "message": "Nothing here 🤷‍♂️",
+        "button": "Go back"
+    },
+    "navigation": {
+        "home": "Home",
+        "experience": "Experience",
+        "projects": "Projects",
+        "education":"Educations"
+    },
+    "about": {
+        "skills": {
+            "title": "Stack"
+        }
+    },
+    "settings": {
+        "lang": {
+            "title": "Change language",
+            "description": "Select your preferred language from the options below.",
+            "close": "Close"
+        }
+    },
+    "common": {
+        "langs": {
+            "en": "English",
+            "kh": "Khmer"
+        }
+    },
+    "buttons": {
+        "contactMe": "Contact me"
+    },
+    "auth": {
+        "login": {
+            "username": "Username",
+            "password": "Password",
+            "buttons": {
+                "login": "Login",
+                "back": "Back"
+            }
+        }
+    },
+    "dashboard": {
+        "layout": {
+            "sidebar": {
+                "common": "Common",
+                "personalData": "Personal data",
+                "experience": "Experience",
+                "projects": "Projects",
+                "stack": "Stack"
+            }
+        }
+    }
+}
