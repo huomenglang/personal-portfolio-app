@@ -60,13 +60,15 @@ const AppThemeProvider = dynamic(() => import('@/components/context/theme'), {
     ssr: true,
 })
 
+type LayoutProps = {
+  children: React.ReactNode;
+  params: { locale: string };
+};
+
 export default async function RootLayout({
     children,
     params,
-}: Readonly<{
-    children: React.ReactNode
-    params: { locale: string }
-}>) {
+}: LayoutProps) {
     // unstable_setRequestLocale(params.locale);
     const { locale } = await params
 
