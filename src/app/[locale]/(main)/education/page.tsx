@@ -7,5 +7,5 @@ export default async function ExperiencesPage() {
     const locale = await getLocale();
     const educationList: ExperienceList = await getLocalData("education", locale);
 
-    return <ExperiencesView experienceList={educationList} year={2023}/>
+    return <ExperiencesView experienceList={educationList} year={"2023"}/>
 }

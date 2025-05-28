@@ -1,19 +1,17 @@
-import { Locale, routing } from './routing'
-import { getRequestConfig } from 'next-intl/server'
-import { notFound } from 'next/navigation'
 
-//@ts-ignore
+import { routing } from './routing'
+import { getRequestConfig } from 'next-intl/server'
+
+type  Languages="en"|"kh"
+
 export default getRequestConfig(async ({ requestLocale }) => {
     let locale = await requestLocale
-    // if (!routing.locales.includes(locale as any)) notFound();
-    // Ensure that the incoming locale is valid
-    if (!locale || !routing.locales.includes(locale as any)) {
+    if (!locale || !routing.locales.includes(locale as Languages)) {
         locale = routing.defaultLocale
     }
 
-    return {locale,messages:(await import(`../../translations/${locale}.json`)).default}
-
-    // return {
-    //     messages: (await import(`../../translations/${locale}.json`)).default,
-    // }
+    return {
+        locale,
+        messages: (await import(`../../translations/${locale}.json`)).default,
+    }
 })

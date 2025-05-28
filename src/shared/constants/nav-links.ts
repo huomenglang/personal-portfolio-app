@@ -1,4 +1,4 @@
-import { NotebookPen} from "lucide-react";
+import { NotebookPen } from "lucide-react";
 
 import { BriefcaseBusiness, User } from "lucide-react";
 

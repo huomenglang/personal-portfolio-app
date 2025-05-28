@@ -4,9 +4,6 @@ import { PersonalInfo } from '@/shared/types/info';
 import * as motion from "framer-motion/client";
 import Image from 'next/image';
 import Contacts from '../contacts';
-import { Dangrek } from 'next/font/google';
-
-const dangrek=Dangrek({subsets: ['khmer','latin'],weight:'400'})
 
 export default function Info({ data, contacts }: { data: PersonalInfo, contacts: ContactsType }) {
     return (
