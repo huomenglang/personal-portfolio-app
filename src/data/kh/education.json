@@ -1,35 +1,35 @@
 {
-    "startYear": "2007",
+    "startYear": "២០០៧",
     "experience": [
          {
-            "company": "Royal University Of Phnom penh",
-            "position": "Bachelor Degree",
+            "company": "សកលវិទ្យាល័យភូមិន្តភ្នំពេញ",
+            "position": "បរិញ្ញាបត្រ",
             "period": {
-                "start": "Nov 2019",
-                "finish": "May 2023"
+                "start": "វិច្ឆិកា ២០១៩",
+                "finish": "ឧសភា ២០២៣"
             },
             "description": [
-                "Bachelor Degree At RUPP major Computer Science and Engineering",
-                 "Study General Programming Language like C#, JAVA, PHP, C, C++ and DSA, Design Patterns, etc "
+                "សិក្សាបរិញ្ញាបត្រ នៅ សកលវិទ្យាល័យភូមិន្ទភ្នំពេញ ជំនាញ វិទ្យាសាស្ត្រកុំព្យូទ័រ (Computer Science and Engineering) ",
+                 "សិក្សាមុខវិជ្ជាមួយចំនួនទាក់ទងនិងការបង្កើតកម្មវិធីកុំព្យូទ័រ និង គេហទំព័រ ដោយប្រើភាសា C#, JAVA, PHP, C, C++ និង របៀបនៃការធ្វើអោយប្រព័ន្ធដំណើរការល្អនិងលឿនហើយងាយស្រួលធ្វើកំណែប្រែ​ដោយប្រើ គន្លឹះ DSA, Design Patterns, System Design "
             ]
         },
         {
-            "company": "Hunsen Khsach Kandal high school",
-            "position": "High School",
+            "company": "វិទ្យាល័យហ៊ុនសែនខ្សាច់កណ្តាល",
+            "position": "វិទ្យាល័យ",
             "period": {
-                "start": "Oct 2013",
-                "finish": "Sep 2019"
+                "start": "តុលា ២០១៣",
+                "finish": "កញ្ញា ២០១៩"
             },
             "description": [
-                "Study General Knowledge "
+                "សិក្សាមុខវិជ្ជា មូលដ្ឋាន បំពេញវិជ្ជា និង ចំណេះដឹងទូទៅ "
             ]
         },
         {
-            "company": "Preah Brasab Primary School",
-            "position": "Primary School",
+            "company": "សាលាបឋមសិក្សាព្រះប្រសប់",
+            "position": "បឋមសិក្សា",
             "period": {
-                "start": "Otc 2007",
-                "finish": "Sep 2013"
+                "start": "តុលា ២០០៧",
+                "finish": "សីហា ២០១៣"
             },
             "description": [
                 "Study foundation and General Knowledge "
