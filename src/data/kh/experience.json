@@ -2,42 +2,42 @@
     "startYear": "2021",
     "experience": [
          {
-            "company": "Canadia Bank",
+            "company": "ធនាគា​ កាណាឌីយ៉ា​ មក",
             "position": "System Developer",
             "period": {
-                "start": "Nov 2023",
-                "finish": "Present"
+                "start": "វិច្ឆិកា 2023",
+                "finish": "បច្ចុប្បន្ន"
             },
             "description": [
-                "Develop API for Integrate with Internal System like Middleware and Backend",
-                "Build new Functions of Core Banking for base on Requirement need",
-                "Develop Reports for Consolidate Based On Users Requirement"
+                "បង្កើត API សម្រាប់ ទាក់ទងជាមួយ ប្រព័ន្វប្រើប្រាស់ក្នុងធនាគា ដូចជា Middleware and Backend",
+                "បង្កើត មុខងារថ្មីៗ សម្រាប់​ Core Banking ",
+                "បង្កើត Reports សម្រាប់ ត្រួតពិនិត្យមើល ទៅតាមតម្រូវការ អ្នកប្រើប្រាស់"
             ]
         },
         {
             "company": "CUBETIQ Solutions",
             "position": "Web Developer",
             "period": {
-                "start": "Dec 2021",
-                "finish": "Nov 2023"
+                "start": "ធ្នូ 2021",
+                "finish": "តុលា 2023"
             },
             "description": [
-                "Developed Front-End and Backend Web Store Management System with Bot Shop for Integrate with POS system, etc (NestJs, ReactJS,NextJS PostgreSQL, SpringBoot)",
-                "Redesigned the Stock Viewer via Scan Barcode, Report Viewer, Oversea Register improved performance, and added Telegram notifications",
-                "Implement project with Concept SOLID Principal, and other Patterns like Singleton, Factory Pattern, Kafka, Websocket Redis "
+                "អភិវឌ្ឍ គេហទំព័រ ផ្នែកខាងមុខ(FrontEnd) និង ផ្នែកខាងក្រោយ(Backend) នូវគម្រោង Web Store Management System ជាមួយ Telegram Bot Shop សម្រាប់ ទំនាក់ទំនងគ្នា និងជាមួយ POS system, etc​ ដោយប្រើភាសា (NestJs, ReactJS,NextJS PostgreSQL, SpringBoot)",
+                "អភិវឌ្ឍឡើងវិញ ប្រព័ន្ធមើលរបាយការស្តុក( Stock Viewer​ ) ដោយ Scan Barcode,និង Report Viewer និង គម្រោង Oversea Register​(ស៊ីហ្គេម 2023) សម្រាប់ភ្ញៀវខ្មែរនៅបរទេសចូលមើល",
+                "អភិវឌ្ឍ ដោយប្រើ  SOLID Principal, និង Patterns ដូចជា (Singleton, Factory Pattern,Strategy...), Kafka, Websocket Redis "
             ]
         },
         {
             "company": "CUBETIQ Solutions",
             "position": "IT Supporter",
             "period": {
-                "start": "Sep 2021",
-                "finish": "Dec 2021"
+                "start": "កញ្ញា 2021",
+                "finish": "ធ្នូ 2021"
             },
             "description": [
-                "Testing and Learning to Understand Process and Business Logic of existing System in Company",
-                "Demo Customer the features of System and Negotiate with Customer ",
-                "Training hwo to use system to customer and Supporting"
+                "ធ្វើតេស្ត and និងស្វែងយល់ពី ដំណើរការខាងក្នុងរបស់ ប្រព័ន្ធ (POS System) នីមួយៗ ដែលមានស្រាប់ក្នុងក្រុមហ៊ុន",
+                "ធ្វើការបង្ហាញ ប្រព័ន្ធដល់ភ្ញៀវ នូវលក្ខណៈរបស់ ប្រព័ន្ធ​ ដើម្បីអោយភ្ញៀវចាប់អារម្មណ៍និងទិញ",
+                "បង្រៀនពីរបៀបប្រើប្រាស់​ ប្រព័ន្ធដល់ភ្ញៀវដែលបានទិញ System និង Support "
             ]
         }
         
