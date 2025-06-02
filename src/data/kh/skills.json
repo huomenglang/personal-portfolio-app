@@ -13,7 +13,7 @@
             },
             {
                 "title": "NodeJS",
-                "icon": "php.svg"
+                "icon": "nodejs.svg"
             },
             {
                 "title": "Python",
@@ -21,7 +21,7 @@
             },
             {
                 "title": "Java",
-                "icon": "go.svg"
+                "icon": "java.svg"
             }
         ]
     },
@@ -62,7 +62,7 @@
             },
             {
                 "title": "SpringBoot Microservice",
-                "icon": "laravel.svg"
+                "icon": "springboot.svg"
             }
         ]
     },
@@ -159,7 +159,7 @@
           
             {
                 "title": "Kubernetes",
-                "icon": "linux.svg"
+                "icon": "kubernetes.svg"
             }
         ]
     }

@@ -155,7 +155,7 @@
           
             {
                 "title": "Kubernetes",
-                "icon": "linux.svg"
+                "icon": "kubernetes.svg"
             }
         ]
     }
