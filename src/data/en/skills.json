@@ -49,10 +49,6 @@
         "folder": "backend",
         "stack": [
             {
-                "title": "NodeJS",
-                "icon": "nodejs.svg"
-            },
-            {
                 "title": "NestJS",
                 "icon": "nestjs.svg"
             },
