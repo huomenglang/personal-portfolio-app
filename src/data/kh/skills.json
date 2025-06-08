@@ -12,10 +12,6 @@
                 "icon": "ts.svg"
             },
             {
-                "title": "NodeJS",
-                "icon": "nodejs.svg"
-            },
-            {
                 "title": "Python",
                 "icon": "python.svg"
             },
@@ -52,10 +48,6 @@
         "title": "ការបង្កើតគេហទំព័រផ្នែកខាងក្រោយ",
         "folder": "backend",
         "stack": [
-            {
-                "title": "NodeJS",
-                "icon": "nodejs.svg"
-            },
             {
                 "title": "NestJS",
                 "icon": "nestjs.svg"
