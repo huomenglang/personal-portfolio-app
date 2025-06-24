@@ -15,10 +15,60 @@
                 "title": "NodeJS",
                 "icon": "nodejs.svg"
             },
-          
+        
             {
                 "title": "Java",
                 "icon": "java.svg"
+            }
+        ]
+    },
+    
+    {
+        "title": "ការបង្កើតគេហទំព័រផ្នែកខាងក្រោយ",
+        "folder": "backend",
+        "stack": [
+        
+            {
+                "title": "SpringBoot Microservice",
+                "icon": "springboot.svg"
+            }
+        ]
+    },
+    {
+        "title": "ដំណើារការអភិវឌ្ឍកម្មវិធី",
+        "folder": "devops",
+        "stack": [
+         {
+                "title": "GitHub",
+                "icon": "github-light.svg",
+                "altIcon": "github-dark.svg"
+            },
+            {
+                "title": "NestJS",
+                "icon": "nestjs.svg"
+            },
+            {
+                "title": "Kubernetes",
+                "icon": "kubernetes.svg"
+            }
+        ]
+    },
+    {
+        "title": "ការគ្រប់គ្រងទិន្ន័យ",
+        "folder": "db",
+        "stack": [
+            {
+                "title": "MySQL",
+                "icon": "mysql.svg"
+            },
+            {
+                "title": "PostgreSQL",
+                "icon": "postgresql.svg"
+            },
+            
+            {
+                "title": "Redis",
+                "icon": "redis.svg"
             }
         ]
     },
@@ -42,36 +92,6 @@
             {
                 "title": "CSS",
                 "icon": "css.svg"
-            }
-        ]
-    },
-    {
-        "title": "ការបង្កើតគេហទំព័រផ្នែកខាងក្រោយ",
-        "folder": "backend",
-        "stack": [
-        
-            {
-                "title": "SpringBoot Microservice",
-                "icon": "springboot.svg"
-            }
-        ]
-    },
-    {
-        "title": "ការគ្រប់គ្រងទិន្ន័យ",
-        "folder": "db",
-        "stack": [
-            {
-                "title": "MySQL",
-                "icon": "mysql.svg"
-            },
-            {
-                "title": "PostgreSQL",
-                "icon": "postgresql.svg"
-            },
-            
-            {
-                "title": "Redis",
-                "icon": "redis.svg"
             }
         ]
     },
@@ -122,10 +142,7 @@
                 "title": "Postman",
                 "icon": "postman.svg"
             },
-            {
-                "title": "Slack",
-                "icon": "slack.svg"
-            },
+        
             {
                 "title": "VSCode",
                 "icon": "vscode.svg"
