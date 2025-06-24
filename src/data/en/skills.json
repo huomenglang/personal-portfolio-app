@@ -11,13 +11,62 @@
                 "title": "TypeScript",
                 "icon": "ts.svg"
             },
-            {
-                "title": "Python",
-                "icon": "python.svg"
-            },
+           
             {
                 "title": "Java",
                 "icon": "java.svg"
+            }
+        ]
+    },
+    
+    {
+        "title": "Backend",
+        "folder": "backend",
+        "stack": [
+          
+            {
+                "title": "SpringBoot Microservice",
+                "icon": "springboot.svg"
+            }
+        ]
+    },
+    {
+        "title": "DevOps",
+        "folder": "devops",
+        "stack": [
+           
+            {
+                "title": "GitHub",
+                "icon": "github-light.svg",
+                "altIcon": "github-dark.svg"
+            },
+            {
+                "title": "Docker",
+                "icon": "docker.svg"
+            },
+          
+            {
+                "title": "Kubernetes",
+                "icon": "kubernetes.svg"
+            }
+        ]
+    },
+    {
+        "title": "Databases",
+        "folder": "db",
+        "stack": [
+            {
+                "title": "MySQL",
+                "icon": "mysql.svg"
+            },
+            {
+                "title": "PostgreSQL",
+                "icon": "postgresql.svg"
+            },
+            
+            {
+                "title": "Redis",
+                "icon": "redis.svg"
             }
         ]
     },
@@ -41,43 +90,6 @@
             {
                 "title": "CSS",
                 "icon": "css.svg"
-            }
-        ]
-    },
-    {
-        "title": "Backend",
-        "folder": "backend",
-        "stack": [
-            {
-                "title": "NodeJS",
-                "icon": "nodejs.svg"
-            },
-            {
-                "title": "NestJS",
-                "icon": "nestjs.svg"
-            },
-            {
-                "title": "SpringBoot Microservice",
-                "icon": "springboot.svg"
-            }
-        ]
-    },
-    {
-        "title": "Databases",
-        "folder": "db",
-        "stack": [
-            {
-                "title": "MySQL",
-                "icon": "mysql.svg"
-            },
-            {
-                "title": "PostgreSQL",
-                "icon": "postgresql.svg"
-            },
-            
-            {
-                "title": "Redis",
-                "icon": "redis.svg"
             }
         ]
     },
@@ -128,35 +140,12 @@
                 "title": "Postman",
                 "icon": "postman.svg"
             },
-            {
-                "title": "Slack",
-                "icon": "slack.svg"
-            },
+
             {
                 "title": "VSCode",
                 "icon": "vscode.svg"
             }
         ]
-    },
-    {
-        "title": "DevOps",
-        "folder": "devops",
-        "stack": [
-           
-            {
-                "title": "GitHub",
-                "icon": "github-light.svg",
-                "altIcon": "github-dark.svg"
-            },
-            {
-                "title": "Docker",
-                "icon": "docker.svg"
-            },
-          
-            {
-                "title": "Kubernetes",
-                "icon": "kubernetes.svg"
-            }
-        ]
     }
+    
 ]

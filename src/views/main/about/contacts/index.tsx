@@ -1,15 +1,17 @@
 import { Button } from '@/components/ui/button';
+import Icon from '@/icon';
 import { cn } from '@/lib/utils';
 import { Contacts as ContactsType } from '@/shared/types/contacts';
 import { Github, Linkedin, LucideIcon, Mail, Send } from 'lucide-react';
 import { useTranslations } from 'next-intl';
+import { Sen } from 'next/font/google';
 import Link from 'next/link';
 
 const contactItems: { icon: LucideIcon, name: keyof ContactsType }[] = [
-    {
-        icon: Send,
-        name: 'telegram'
-    },
+    // {
+    //     icon: Send,
+    //     name: 'telegram'
+    // },
     {
         icon: Github,
         name: 'github'
@@ -45,7 +47,7 @@ export default function Contacts({ contacts }: { contacts: ContactsType }) {
                         </Button>
                     </Link>
                 ))}
-                <Link href='mailto:hopsteee@gmail.com' target='_blank'>
+                <Link href='https://t.me/Menglang_HUO'  target='_blank'>
                     <Button
                         size='default'
                         className={cn(
@@ -53,8 +55,10 @@ export default function Contacts({ contacts }: { contacts: ContactsType }) {
                             'text-ochre-text hover:text-alter-light dark:text-ochre-light-text'
                         )}
                     >
-                        <Mail className='size-5 mr-2' />
-                        {t('contactMe')}
+                        
+                        {/* <Mail className='size-5 mr-2' /> */}
+                        <Send className='size-5 mr-2 ' />
+                        {t('hire_me')}
                     </Button>
                 </Link>
             </div>
