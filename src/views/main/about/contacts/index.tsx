@@ -1,10 +1,8 @@
 import { Button } from '@/components/ui/button';
-import Icon from '@/icon';
 import { cn } from '@/lib/utils';
 import { Contacts as ContactsType } from '@/shared/types/contacts';
-import { Github, Linkedin, LucideIcon, Mail, Send } from 'lucide-react';
+import { Github,Linkedin,LucideIcon,Send } from 'lucide-react';
 import { useTranslations } from 'next-intl';
-import { Sen } from 'next/font/google';
 import Link from 'next/link';
 
 const contactItems: { icon: LucideIcon, name: keyof ContactsType }[] = [
@@ -55,8 +53,6 @@ export default function Contacts({ contacts }: { contacts: ContactsType }) {
                             'text-ochre-text hover:text-alter-light dark:text-ochre-light-text'
                         )}
                     >
-                        
-                        {/* <Mail className='size-5 mr-2' /> */}
                         <Send className='size-5 mr-2 ' />
                         {t('hire_me')}
                     </Button>
