@@ -22,7 +22,7 @@
                 "finish": "តុលា 2023"
             },
             "description": [
-                "អភិវឌ្ឍ គេហទំព័រ ផ្នែកខាងមុខ(FrontEnd) និង ផ្នែកខាងក្រោយ(Backend) នូវគម្រោង Web Store Management System ជាមួយ Telegram Bot Shop សម្រាប់ ទំនាក់ទំនងគ្នា និងជាមួយ POS system, etc​ ដោយប្រើភាសា (NestJs, ReactJS,NextJS PostgreSQL, SpringBoot)",
+                "អភិវឌ្ឍ គេហទំព័រ ផ្នែកខាងមុខ(FrontEnd) និង ផ្នែកខាងក្រោយ(Backend) នូវគម្រោង Web Store Management System ជាមួយ Telegram Bot Shop សម្រាប់ ទំនាក់ទំនងគ្នា និងជាមួយ POS system, etc​ ដោយប្រើភាសា ( ReactJS, NextJS, SpringBoot)",
                 "អភិវឌ្ឍឡើងវិញ ប្រព័ន្ធមើលរបាយការស្តុក( Stock Viewer​ ) ដោយ Scan Barcode,និង Report Viewer និង គម្រោង Oversea Register​(ស៊ីហ្គេម 2023) សម្រាប់ភ្ញៀវខ្មែរនៅបរទេសចូលមើល",
                 "អភិវឌ្ឍ ដោយប្រើ  SOLID Principal, និង Patterns ដូចជា (Singleton, Factory Pattern,Strategy...), Kafka, Websocket Redis "
             ]
