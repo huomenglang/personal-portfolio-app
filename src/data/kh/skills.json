@@ -37,10 +37,10 @@
                 "title": "GitHub",
                 "icon": "github-light.svg",
                 "altIcon": "github-dark.svg"
-            },
+            },    
             {
-                "title": "NestJS",
-                "icon": "nestjs.svg"
+                "title": "Docker",
+                "icon": "docker.svg"
             },
             {
                 "title": "Kubernetes",
